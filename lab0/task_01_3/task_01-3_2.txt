@@ -1,0 +1,11 @@
+ 44.7   618 _windowserver    /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer
+ 17.6 11424 kaidder          /Applications/Wallspace.app/Contents/MacOS/Wallspace
+  6.4 70117 kaidder          /Applications/Ghostty.app/Contents/MacOS/ghostty
+  4.9  1067 kaidder          /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  4.7 11447 kaidder          /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  2.3 65071 kaidder          /Applications/Happ 2.app/Contents/PlugIns/Tunnel.appex/Contents/MacOS/Tunnel
+  1.9   756 _driverkit       /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN
+  1.8  2758 kaidder          /Applications/Happ 2.app/Contents/MacOS/Happ
+  1.6 70152 kaidder          -/bin/zsh
+  1.5 64917 kaidder          /Applications/Telegram.app/Contents/MacOS/Telegram
+  1.2   970 kaidder          /usr/libexec/trustd

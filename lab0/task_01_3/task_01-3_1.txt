@@ -1,0 +1,9 @@
+GenomicData
+lab_final_report.txt
+task_01-3_1.txt
+task_01-3_2.txt
+task_01-3_3.txt
+task_01-3_4.txt
+
+./GenomicData:
+sequencing_backup.log
