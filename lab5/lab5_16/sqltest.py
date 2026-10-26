@@ -8,18 +8,26 @@ try:
 
         host="localhost",          # База в контейнере, но доступна через localhost
 
-        port="5432",               # Порт из секции ports
+        port="5435",               # Порт из секции ports
 
         user="postgres",           # POSTGRES_USER
 
-        password="example",        # POSTGRES_PASSWORD
+        password="student",        # POSTGRES_PASSWORD
 
-        database="testdb"          # POSTGRES_DB
+        database="student_task"          # POSTGRES_DB
 
     )
 
-    print("Подключение к базе данных прошло успешно!")
+    cursor = connection.cursor()
 
+    cursor.execute("SELECT name, category from products order by name;")
+
+    products = cursor.fetchall()
+
+    for product in products:
+        print(f"Product: {product[0]} | {product[1]}")
+
+    cursor.close()
 
 
 except Exception as error:
