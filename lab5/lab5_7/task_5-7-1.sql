@@ -34,3 +34,5 @@ CREATE TABLE IF NOT EXISTS enrollments (
     product_id integer references products(id)
 
 );
+
+select * FROM products p JOIN prices pr;

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-passwd=$(grep "$USER" /etc/passwd)
+passwd=$(grep "root" /etc/passwd)
 echo "$passwd"

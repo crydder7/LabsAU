@@ -174,3 +174,18 @@ map auto_home                                                                   
 devices -- file:///Users/kaidder/Library/Containers/com.apple.CoreDevice.CoreDeviceService/Data/   1.0Ti     0Bi   1.0Ti     0%       0  9.2E    0%   /Users/kaidder/Library/Developer/CoreDevice/DeviceFS
 /dev/disk8s1                                                                                       3.1Gi   3.0Gi   105Mi    97%     563  1.1M    0%   /private/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.1.266.1.08sGIm
 /dev/disk4s2                                                                                       238Gi   197Gi    41Gi    83%       1     0  100%   /Volumes/kaidder
+Filesystem                                                                                          Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                                                                                     228Gi    13Gi   5.8Gi    69%    484k   61M    1%   /
+devfs                                                                                              212Ki   212Ki     0Bi   100%     733     0  100%   /dev
+/dev/disk3s6                                                                                       228Gi   3.0Gi   5.8Gi    34%       3   61M    0%   /System/Volumes/VM
+/dev/disk3s2                                                                                       228Gi    10Gi   5.8Gi    64%    1.0k   61M    0%   /System/Volumes/Preboot
+/dev/disk3s4                                                                                       228Gi    27Mi   5.8Gi     1%     111   61M    0%   /System/Volumes/Update
+/dev/disk1s2                                                                                       500Mi   6.0Mi   482Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1                                                                                       500Mi   5.8Mi   482Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                                                                       500Mi   1.1Mi   482Mi     1%      91  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5                                                                                       228Gi   195Gi   5.8Gi    98%    2.2M   61M    3%   /System/Volumes/Data
+map auto_home                                                                                        0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk3s3                                                                                       228Gi   1.4Gi   5.8Gi    20%      68   61M    0%   /Volumes/Recovery
+/dev/disk7s1                                                                                        17Gi    16Gi   447Mi    98%    626k  4.6M   12%   /Library/Developer/CoreSimulator/Volumes/iOS_23E244
+devices -- file:///Users/kaidder/Library/Containers/com.apple.CoreDevice.CoreDeviceService/Data/   1.0Ti     0Bi   1.0Ti     0%       0  9.2E    0%   /Users/kaidder/Library/Developer/CoreDevice/DeviceFS
+/dev/disk8s1                                                                                       3.1Gi   3.0Gi   105Mi    97%     563  1.1M    0%   /private/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v27.1.266.1.08sGIm
